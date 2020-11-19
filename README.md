@@ -1,6 +1,8 @@
 # code-line-statistic
 
-A code line statistic tool base on tkinter✨💫.
+> A code line statistic tool base on tkinter✨💫.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ## Usage
 
@@ -13,8 +15,15 @@ pipenv install
 python3 src/main.py
 ```
 
-## screenshot
+## Screenshot
 
 ![index](./images/index.jpg)
 
 ![result](./images/result.jpg)
+
+
+## License
+
+[MIT](https://github.com/YX-XiaoBai/code-line-statistic) license.
+
+Copyright (c) 2020-present YX-XiaoBai
