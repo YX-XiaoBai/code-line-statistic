@@ -13,7 +13,7 @@ pipenv install
 python3 src/main.py
 ```
 
-## Shootcut
+## screenshot
 
 ![index](./images/index.jpg)
 
