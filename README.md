@@ -21,7 +21,6 @@ python3 src/main.py
 
 ![result](./images/result.jpg)
 
-
 ## License
 
 [MIT](https://github.com/YX-XiaoBai/code-line-statistic) license.
